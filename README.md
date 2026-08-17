@@ -141,15 +141,14 @@ Sebagian besar sistem yang saya garap tertutup di repositori perusahaan. Jadi bu
 
 ---
 
-## 📊 Statistik
+## 📌 Catatan soal repositori di sini
 
-<p align="center">
-  <img height="165" alt="Statistik GitHub Rochman" src="https://github-readme-stats.vercel.app/api?username=rochmanramadhani&theme=dark&bg_color=14231C&title_color=E8C547&icon_color=6FB3A8&text_color=F2EFE4&hide_border=true&show_icons=true&count_private=true" />
-</p>
+Repositori publik di akun ini sebagian besar tugas kuliah dan eksperimen. **Sistem yang benar-benar saya garap
+ada di repositori perusahaan dan klien — tertutup, dan memang seharusnya begitu.**
 
-<p align="center">
-  <sub>Sebagian besar pekerjaan saya ada di repositori privat perusahaan dan klien, jadi angka di atas tidak mewakili keseluruhannya. Yang mewakili ada di <a href="https://oman-porto.skolain.id">portofolio</a>.</sub>
-</p>
+Kartu statistik GitHub tidak saya pasang karena dua alasan: angkanya hanya membaca yang publik, jadi justru
+mengecilkan; dan layanan pihak ketiga yang menyediakannya sering mati. Yang mewakili pekerjaan saya ada di
+**[oman-porto.skolain.id](https://oman-porto.skolain.id)** — 39 slide, lengkap dengan artefak dan tanggalnya.
 
 ---
 
