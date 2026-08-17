@@ -1,0 +1,5 @@
+# False positive: aturan linkedin-client-secret mencocokkan "rochmanramadhani"
+# di dalam URL badge https://www.linkedin.com/in/rochmanramadhani/ — panjangnya
+# 16 karakter alfanumerik, sama dengan pola client secret LinkedIn. Itu username
+# publik, bukan kredensial.
+README.md:linkedin-client-secret:28
