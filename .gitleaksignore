@@ -1,5 +1,0 @@
-# False positive: the linkedin-client-secret rule matches "rochmanramadhani"
-# inside https://www.linkedin.com/in/rochmanramadhani/ — it is 16 alphanumeric
-# characters, the same shape as a LinkedIn client secret. It is a public
-# username, not a credential.
-README.md:linkedin-client-secret:29
