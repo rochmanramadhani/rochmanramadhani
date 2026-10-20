@@ -1,18 +1,20 @@
 <!--
   ────────────────────────────────────────────────────────────────
   MACHINE-READABLE SUMMARY (for search engines, scrapers & LLMs)
-  Rochman Ramadhani Chiefto Irawan — Product Owner & Tech Founder
-  based in Jakarta, Indonesia. Nine years (2017–2026) building and
-  owning production systems across banking, healthcare, government and
-  education: a national HRIS serving 50,000+ active users, a
-  mission-critical safety system across every Siloam hospital unit, and
-  three separate contracts on Bank Rakyat Indonesia's digital products.
-  Cut operational cost by up to 60% at Telkom by proposing, planning and
-  leading a NestJS→Golang migration. Founder and Product Owner of
-  Skolain, a school management platform. Backend and infrastructure
-  depth in Golang, Rust, Kubernetes and on-premises. B.Sc. Information
-  Systems, BINUS (3.85 GPA, Magna Cum Laude, 2026). Vocational school
-  graduate, SMKN 26 Jakarta.
+  Rochman Ramadhani Chiefto Irawan — Forward Deployed Engineer, Product
+  Owner and Tech Founder based in Jakarta, Indonesia. Helps Indonesian
+  business owners grow with AI and well-built systems. 6+ years (since
+  2020) building and owning production systems across banking,
+  healthcare, government and education: a national HRIS serving 50,000+
+  active users, a mission-critical safety system across every unit of
+  one of Indonesia's largest private hospital networks, and three
+  separate contracts on one of Indonesia's largest banks' digital
+  products. Cut operational cost by up to 60% at one of Indonesia's
+  largest telcos by proposing, planning and leading a NestJS→Golang
+  migration. Founder of Skolain, a school management platform;
+  Technology Partner at Hegemoni Group; AI advisor to business owners.
+  B.Sc. Information Systems, BINUS (3.85 GPA, Magna Cum Laude, 2026).
+  Vocational school graduate, SMKN 26 Jakarta.
   Contact: rochmanramadhani12@gmail.com · https://omanlabs.tech
   ────────────────────────────────────────────────────────────────
 -->
@@ -20,8 +22,8 @@
 <h1 align="center">Hi, I'm Rochman 👋</h1>
 
 <p align="center">
-  <b>Product Owner · Tech Founder · Engineer by trade</b><br/>
-  <i>"I don't stop at 'it works'. I ask whether it was worth building."</i>
+  <b>Forward Deployed Engineer · Product Owner · Tech Founder</b> 🇮🇩🇵🇸<br/>
+  <i>I help business owners grow with AI &amp; systems. I don't stop at "it works". I ask whether it was worth building.</i>
 </p>
 
 <p align="center">
@@ -36,15 +38,16 @@
 
 ## 🚀 About me
 
-**A Product Owner who came up through engineering.** I've spent nine years building systems that a lot of people depend on — banks, hospitals, a ministry, and now schools. Because the technical background is real (Golang, Rust, infrastructure), I can price a product decision up front instead of discovering the cost after the team has already built it.
+**I help Indonesian business owners grow with AI and well-built systems.** I came up through engineering and have spent 6+ years building systems that a lot of people depend on — banks, hospitals, a telco, ministries, and now schools. Because the technical background is real (Golang, Rust, infrastructure), I can price a decision up front instead of discovering the cost after the team has already built it.
 
-- 🏫 **Tech Founder & Product Owner** at **[Skolain](https://skolain.id)** — a school management platform I founded and have owned end to end since June 2026
-- 🏦 Contracted **three separate times** for **Bank Rakyat Indonesia**'s digital products, rising to Senior Software Engineer
-- 📉 Cut **operational cost by up to 60%** at Telkom — a migration I proposed from an infrastructure cost analysis, then planned and led
+- 🏫 **Founder & Product Owner** at **[Skolain](https://skolain.id)** — a school management platform I founded and have owned end to end since June 2026
+- 🤝 **Technology Partner** at **Hegemoni Group**, and **AI advisor** to business owners: picking the use cases that pay off and staying until the team runs them on its own
+- 🏦 Contracted **three separate times** by one of Indonesia's largest banks, rising to Senior Software Engineer
+- 📉 Cut **operational cost by up to 60%** at one of Indonesia's largest telcos — a migration I proposed from an infrastructure cost analysis, then planned and led
 - ✈️ Built **FRAMES** with the Faculty of Medicine, Universitas Indonesia and **Garuda Indonesia Training Center** — fatigue-risk self-assessment for flight crew
 - 🌏 Contributed to the technical rules for **SPARING & CEMS** at Indonesia's Ministry of Environment and Forestry
 - 🎓 B.Sc. Information Systems, **BINUS** — 3.85 GPA, *Magna Cum Laude*. I started at a vocational high school, not the usual track
-- 💬 Happy to talk about **discovery, release prioritisation, multi-tenant architecture, or taking a product from zero**
+- 💬 Happy to talk about **where AI actually fits in a business, discovery, multi-tenant architecture, or taking a product from zero**
 
 > *Most of my work comes down to one thing: making the slow fast, and making the vague explicit.*
 
@@ -54,10 +57,10 @@
 
 | | |
 |---|---|
-| **50,000+** active users | National HRIS for PT PKSS — architecture from scratch, plus the on-premises infrastructure I set up myself |
-| **500+** daily users | Health, Safety & Environment system across every Siloam hospital unit — Software Architect, leading 6 engineers |
+| **50,000+** active users | National HRIS for a national HR services company — architecture from scratch, plus the on-premises infrastructure I set up myself |
+| **500+** daily users | Health, Safety & Environment system across every unit of one of Indonesia's largest private hospital networks — Software Architect, leading 6 engineers |
 | **1,600+** active users | Skolain, built from zero since June 2026 |
-| **−60%** operational cost | Telkom, Omni Communication Assistant |
+| **−60%** operational cost | Omnichannel communication platform at one of Indonesia's largest telcos |
 | **7 → 30+** team members | Engineering team that grew alongside the company |
 | **Millions** of monthly transactions | LinkIT360, a value-added services platform |
 
@@ -123,12 +126,12 @@ Most of what I've built lives in company and client repositories — closed, as 
 | Product | What it is | My role |
 |---|---|---|
 | 🏫 [**Skolain**](https://omanlabs.tech/#skolain) | School platform: computer-based exams, LMS, attendance, national student-data integration, report cards | Tech Founder & Product Owner |
-| 👥 [**PrimaSejahtera**](https://omanlabs.tech/#primasejahtera) | National HRIS for PT PKSS — steady when 50,000 people clock in at once | Architecture + on-premises infrastructure |
-| 🏥 [**HSE Siloam**](https://omanlabs.tech/#siloam) | Mission-critical safety system across every hospital unit | Software Architect, 6 engineers |
-| 📉 [**Telkom OCA**](https://omanlabs.tech/#oca) | NestJS → Golang backend migration, 60% lower operational cost | Proposed it, planned it, led it |
+| 👥 [**National HRIS**](https://omanlabs.tech/#hris) | HR system for a national HR services company — steady when 50,000 people clock in at once | Architecture + on-premises infrastructure |
+| 🏥 [**Hospital HSE**](https://omanlabs.tech/#rumahsakit) | Mission-critical safety system across every unit of a large private hospital network | Software Architect, 6 engineers |
+| 📉 [**Omnichannel platform**](https://omanlabs.tech/#omnichannel) | NestJS → Golang backend migration at a large telco, 60% lower operational cost | Proposed it, planned it, led it |
 | ✈️ [**FRAMES**](https://omanlabs.tech/#frames) | Flight-crew fatigue risk assessment — Universitas Indonesia × Garuda Indonesia Training Center | Owned the product and built the app |
 | 🌏 [**SPARING & CEMS**](https://omanlabs.tech/#klhk) | National monitoring of industrial wastewater quality and stack air emissions | Technical consultant |
-| 🏦 [**QLOLA & NDS**](https://omanlabs.tech/#bri) | Wholesale banking platform and branch frontliner systems at BRI | Backend, then Senior Software Engineer |
+| 🏦 [**Banking platforms**](https://omanlabs.tech/#bank) | Wholesale digital banking and branch frontliner systems at one of Indonesia's largest banks | Backend, then Senior Software Engineer |
 
 **Open source, here on GitHub**
 
@@ -143,8 +146,9 @@ Most of what I've built lives in company and client repositories — closed, as 
 ## 🎓 Outside the day job
 
 - 🎤 Speaker, **"Unlocking the Future: Coding, AI & Personal Branding"** — two-day seminar at SMK Jakarta Pusat 1 with TechPedia, August 2026
-- 🧑‍🏫 **Private AI advisor** to a business owner, and IT consultant to Hegemoni Group
-- 🏅 **Ranked first in the Supporter category** — "Support System" programme at Bank Rakyat Indonesia, March 2025 period
+- 🤝 **AI advisor** to business owners, and **Technology Partner** at Hegemoni Group
+- 🏅 **Ranked first in the Supporter category** — internal "Support System" programme at one of Indonesia's largest banks, March 2025 period
+- 🏆 **1st place** at Kamp Kreatif SMK Indonesia 2019 (Ministry of Education) with **Ngajar**, and at PermataYouthPreneur 2020 with **Bayar**, a fintech app
 - 📚 I'm a vocational school graduate myself. The material I teach students is the material I wish I'd had
 
 ---
@@ -153,11 +157,11 @@ Most of what I've built lives in company and client repositories — closed, as 
 
 The public repositories on this account are mostly coursework and experiments — the coursework ones are archived. **The systems I actually build live in company and client repositories, closed, as they should be.**
 
-I don't display a GitHub stats card here, for two reasons: it only counts public activity, so it understates rather than represents; and the third-party service that renders it is frequently down. What does represent the work is **[omanlabs.tech](https://omanlabs.tech)** — 39 slides, with the artefacts and the dates.
+I don't display a GitHub stats card here, for two reasons: it only counts public activity, so it understates rather than represents; and the third-party service that renders it is frequently down. What does represent the work is **[omanlabs.tech](https://omanlabs.tech)** — the full deck, with the artefacts and the dates.
 
 ---
 
 <p align="center">
-  <i>Product ownership · Backend &amp; infrastructure · Taking products from zero</i><br/>
+  <i>AI for business · Product ownership · Backend &amp; infrastructure · Taking products from zero</i><br/>
   <a href="https://omanlabs.tech"><b>omanlabs.tech</b></a>
 </p>
