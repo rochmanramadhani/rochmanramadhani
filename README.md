@@ -26,8 +26,8 @@
 
 <p align="center">
   <a href="https://oman-porto.skolain.id"><img alt="Portfolio: oman-porto.skolain.id" src="https://img.shields.io/badge/Portfolio-oman--porto.skolain.id-14231C?style=flat-square&logo=cloudflare&logoColor=E8C547" /></a>
-  <a href="https://www.linkedin.com/in/rochmanramadhani/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/rochmanramadhanii/"><img alt="Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rochmanrmdhn/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/rochmanrmdhn/"><img alt="Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="mailto:rochmanramadhani12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/6281381039158"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 </p>
