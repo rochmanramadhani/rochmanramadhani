@@ -13,7 +13,7 @@
   depth in Golang, Rust, Kubernetes and on-premises. B.Sc. Information
   Systems, BINUS (3.85 GPA, Magna Cum Laude, 2026). Vocational school
   graduate, SMKN 26 Jakarta.
-  Contact: rochmanramadhani12@gmail.com · https://oman-porto.skolain.id
+  Contact: rochmanramadhani12@gmail.com · https://omanlabs.tech
   ────────────────────────────────────────────────────────────────
 -->
 
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://oman-porto.skolain.id"><img alt="Portfolio: oman-porto.skolain.id" src="https://img.shields.io/badge/Portfolio-oman--porto.skolain.id-14231C?style=flat-square&logo=cloudflare&logoColor=E8C547" /></a>
+  <a href="https://omanlabs.tech"><img alt="Portfolio: omanlabs.tech" src="https://img.shields.io/badge/Portfolio-omanlabs.tech-14231C?style=flat-square&logo=cloudflare&logoColor=E8C547" /></a>
   <a href="https://www.linkedin.com/in/rochmanrmdhn/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/rochmanrmdhn/"><img alt="Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="mailto:rochmanramadhani12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -122,13 +122,13 @@ Most of what I've built lives in company and client repositories — closed, as 
 
 | Product | What it is | My role |
 |---|---|---|
-| 🏫 [**Skolain**](https://oman-porto.skolain.id/#skolain) | School platform: computer-based exams, LMS, attendance, national student-data integration, report cards | Tech Founder & Product Owner |
-| 👥 [**PrimaSejahtera**](https://oman-porto.skolain.id/#primasejahtera) | National HRIS for PT PKSS — steady when 50,000 people clock in at once | Architecture + on-premises infrastructure |
-| 🏥 [**HSE Siloam**](https://oman-porto.skolain.id/#siloam) | Mission-critical safety system across every hospital unit | Software Architect, 6 engineers |
-| 📉 [**Telkom OCA**](https://oman-porto.skolain.id/#oca) | NestJS → Golang backend migration, 60% lower operational cost | Proposed it, planned it, led it |
-| ✈️ [**FRAMES**](https://oman-porto.skolain.id/#frames) | Flight-crew fatigue risk assessment — Universitas Indonesia × Garuda Indonesia Training Center | Owned the product and built the app |
-| 🌏 [**SPARING & CEMS**](https://oman-porto.skolain.id/#klhk) | National monitoring of industrial wastewater quality and stack air emissions | Technical consultant |
-| 🏦 [**QLOLA & NDS**](https://oman-porto.skolain.id/#bri) | Wholesale banking platform and branch frontliner systems at BRI | Backend, then Senior Software Engineer |
+| 🏫 [**Skolain**](https://omanlabs.tech/#skolain) | School platform: computer-based exams, LMS, attendance, national student-data integration, report cards | Tech Founder & Product Owner |
+| 👥 [**PrimaSejahtera**](https://omanlabs.tech/#primasejahtera) | National HRIS for PT PKSS — steady when 50,000 people clock in at once | Architecture + on-premises infrastructure |
+| 🏥 [**HSE Siloam**](https://omanlabs.tech/#siloam) | Mission-critical safety system across every hospital unit | Software Architect, 6 engineers |
+| 📉 [**Telkom OCA**](https://omanlabs.tech/#oca) | NestJS → Golang backend migration, 60% lower operational cost | Proposed it, planned it, led it |
+| ✈️ [**FRAMES**](https://omanlabs.tech/#frames) | Flight-crew fatigue risk assessment — Universitas Indonesia × Garuda Indonesia Training Center | Owned the product and built the app |
+| 🌏 [**SPARING & CEMS**](https://omanlabs.tech/#klhk) | National monitoring of industrial wastewater quality and stack air emissions | Technical consultant |
+| 🏦 [**QLOLA & NDS**](https://omanlabs.tech/#bri) | Wholesale banking platform and branch frontliner systems at BRI | Backend, then Senior Software Engineer |
 
 **Open source, here on GitHub**
 
@@ -153,11 +153,11 @@ Most of what I've built lives in company and client repositories — closed, as 
 
 The public repositories on this account are mostly coursework and experiments — the coursework ones are archived. **The systems I actually build live in company and client repositories, closed, as they should be.**
 
-I don't display a GitHub stats card here, for two reasons: it only counts public activity, so it understates rather than represents; and the third-party service that renders it is frequently down. What does represent the work is **[oman-porto.skolain.id](https://oman-porto.skolain.id)** — 39 slides, with the artefacts and the dates.
+I don't display a GitHub stats card here, for two reasons: it only counts public activity, so it understates rather than represents; and the third-party service that renders it is frequently down. What does represent the work is **[omanlabs.tech](https://omanlabs.tech)** — 39 slides, with the artefacts and the dates.
 
 ---
 
 <p align="center">
   <i>Product ownership · Backend &amp; infrastructure · Taking products from zero</i><br/>
-  <a href="https://oman-porto.skolain.id"><b>oman-porto.skolain.id</b></a>
+  <a href="https://omanlabs.tech"><b>omanlabs.tech</b></a>
 </p>
