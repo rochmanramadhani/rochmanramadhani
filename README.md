@@ -12,7 +12,7 @@
   products. Cut operational cost by up to 60% at one of Indonesia's
   largest telcos by proposing, planning and leading a NestJS→Golang
   migration. Founder of Skolain, a school management platform;
-  Technology Partner at Hegemoni Group; AI advisor to business owners.
+  Technology Partner at Hegemoni Group; AI learning partner to business owners.
   B.Sc. Information Systems, BINUS (3.85 GPA, Magna Cum Laude, 2026).
   Vocational school graduate, SMKN 26 Jakarta.
   Contact: rochmanramadhani12@gmail.com · https://omanlabs.tech
@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://omanlabs.tech"><img alt="Portfolio: omanlabs.tech" src="https://img.shields.io/badge/Portfolio-omanlabs.tech-14231C?style=flat-square&logo=cloudflare&logoColor=E8C547" /></a>
   <a href="https://www.linkedin.com/in/rochmanrmdhn/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/rochmanrmdhn/"><img alt="Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/rochmanrmdhnn/"><img alt="Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="mailto:rochmanramadhani12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/6281381039158"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 </p>
@@ -41,7 +41,7 @@
 **I help Indonesian business owners grow with AI and well-built systems.** I came up through engineering and have spent 6+ years building systems that a lot of people depend on — banks, hospitals, a telco, ministries, and now schools. Because the technical background is real (Golang, Rust, infrastructure), I can price a decision up front instead of discovering the cost after the team has already built it.
 
 - 🏫 **Founder & Product Owner** at **[Skolain](https://skolain.id)** — a school management platform I founded and have owned end to end since June 2026
-- 🤝 **Technology Partner** at **Hegemoni Group**, and **AI advisor** to business owners: picking the use cases that pay off and staying until the team runs them on its own
+- 🤝 **Technology Partner** at **Hegemoni Group**, and **AI learning partner** to business owners: we find the use cases that pay off together, and I stay until the team runs them on its own
 - 🏦 Contracted **three separate times** by one of Indonesia's largest banks, rising to Senior Software Engineer
 - 📉 Cut **operational cost by up to 60%** at one of Indonesia's largest telcos — a migration I proposed from an infrastructure cost analysis, then planned and led
 - ✈️ Built **FRAMES** with the Faculty of Medicine, Universitas Indonesia and **Garuda Indonesia Training Center** — fatigue-risk self-assessment for flight crew
@@ -146,7 +146,7 @@ Most of what I've built lives in company and client repositories — closed, as 
 ## 🎓 Outside the day job
 
 - 🎤 Speaker, **"Unlocking the Future: Coding, AI & Personal Branding"** — two-day seminar at SMK Jakarta Pusat 1 with TechPedia, August 2026
-- 🤝 **AI advisor** to business owners, and **Technology Partner** at Hegemoni Group
+- 🤝 **AI learning partner** to business owners, and **Technology Partner** at Hegemoni Group
 - 🏅 **Ranked first in the Supporter category** — internal "Support System" programme at one of Indonesia's largest banks, March 2025 period
 - 🏆 **1st place** at Kamp Kreatif SMK Indonesia 2019 (Ministry of Education) with **Ngajar**, and at PermataYouthPreneur 2020 with **Bayar**, a fintech app
 - 📚 I'm a vocational school graduate myself. The material I teach students is the material I wish I'd had
