@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://omanlabs.tech"><img alt="Portfolio: omanlabs.tech" src="https://img.shields.io/badge/Portfolio-omanlabs.tech-14231C?style=flat-square&logo=cloudflare&logoColor=E8C547" /></a>
-  <a href="https://www.linkedin.com/in/rochmanrmdhn/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rochmanrmdhnn/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/rochmanrmdhnn/"><img alt="Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="mailto:rochmanramadhani12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/6281381039158"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
@@ -125,7 +125,7 @@ Most of what I've built lives in company and client repositories — closed, as 
 
 | Product | What it is | My role |
 |---|---|---|
-| 🏫 [**Skolain**](https://omanlabs.tech/#skolain) | School platform: computer-based exams, LMS, attendance, national student-data integration, report cards | Tech Founder & Product Owner |
+| 🏫 [**Skolain**](https://omanlabs.tech/#skolain) | School platform: computer-based exams, LMS, attendance, national student-data integration, report cards | Founder & Product Owner |
 | 👥 [**National HRIS**](https://omanlabs.tech/#hris) | HR system for a national HR services company — steady when 50,000 people clock in at once | Architecture + on-premises infrastructure |
 | 🏥 [**Hospital HSE**](https://omanlabs.tech/#rumahsakit) | Mission-critical safety system across every unit of a large private hospital network | Software Architect, 6 engineers |
 | 📉 [**Omnichannel platform**](https://omanlabs.tech/#omnichannel) | NestJS → Golang backend migration at a large telco, 60% lower operational cost | Proposed it, planned it, led it |
