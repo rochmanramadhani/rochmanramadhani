@@ -10,8 +10,8 @@
   one of Indonesia's largest private hospital networks, and three
   separate contracts on one of Indonesia's largest banks' digital
   products. Proposed, planned and led a NestJS→Go migration at one of
-  Indonesia's largest telcos so the platform stays stable at peak
-  traffic with room to grow and lower infrastructure needs. Founder &
+  Indonesia's largest telcos to improve resource efficiency and
+  resilience under peak traffic. Founder &
   Product Engineer of Skolain, a school management platform; Technology
   Partner at a multi-brand beauty group; AI learning partner to business
   owners. 1st place, SEAMEO SEAMOLEC Southeast Asia Creative Camp 2019.
@@ -45,7 +45,7 @@
 - 🏫 **Founder & Product Engineer** at **[Skolain](https://skolain.id)** — a school management platform I founded and have built and owned end to end since June 2026
 - 🤝 **Technology Partner** at a **multi-brand beauty group**, and **AI learning partner** to business owners: we find the use cases that pay off together, and I stay until the team runs them on its own
 - 🏦 Contracted **three separate times** by one of Indonesia's largest banks, rising to Senior Software Engineer
-- ⚙️ Proposed, planned and led a **NestJS → Go migration** at one of Indonesia's largest telcos — Go's multi-core concurrency and compiled code use CPU and memory far more efficiently, so the platform stays stable at peak traffic with room to grow and lower infrastructure needs
+- ⚙️ Proposed, planned and led a **NestJS → Go migration** at one of Indonesia's largest telcos to improve resource efficiency and resilience under peak traffic
 - ✈️ Built **FRAMES** with the Faculty of Medicine, Universitas Indonesia and **Garuda Indonesia Training Center** — fatigue-risk self-assessment for flight crew
 - 🌏 Contributed to the technical rules for **SPARING & CEMS** at Indonesia's Ministry of Environment and Forestry
 - 🎓 B.Sc. Information Systems, **BINUS** — 3.85 GPA, *Magna Cum Laude*. I started at a vocational high school, not the usual track
@@ -130,7 +130,7 @@ Most of what I've built lives in company and client repositories — closed, as 
 | 🏫 [**Skolain**](https://omanlabs.tech/#skolain) | School platform: computer-based exams, LMS, attendance, national student-data integration, report cards | Founder & Product Engineer |
 | 👥 [**National HRIS**](https://omanlabs.tech/#hris) | HR system for a national HR services company — steady when 50,000 people clock in at once | Architecture + on-premises infrastructure |
 | 🏥 [**Hospital HSE**](https://omanlabs.tech/#rumahsakit) | Mission-critical safety system across every unit of a large private hospital network | Software Architect, 6 engineers |
-| ⚙️ [**Omnichannel platform**](https://omanlabs.tech/#omnichannel) | NestJS → Golang backend migration at a large telco, stable at peak traffic with lower infrastructure needs | Proposed it, planned it, led it |
+| ⚙️ [**Omnichannel platform**](https://omanlabs.tech/#omnichannel) | NestJS → Golang backend migration at a large telco, focused on resource efficiency and peak-traffic resilience | Proposed it, planned it, led it |
 | ✈️ [**FRAMES**](https://omanlabs.tech/#frames) | Flight-crew fatigue risk assessment — Universitas Indonesia × Garuda Indonesia Training Center | Product Engineer: owned the product and built the app |
 | 🩺 [**Doctors' membership dashboard**](https://omanlabs.tech/#dokter) | Membership dashboard for a national doctors' college, scoped for 150,000 general practitioners | Product Engineer |
 | 🌏 [**SPARING & CEMS**](https://omanlabs.tech/#klhk) | National monitoring of industrial wastewater quality and stack air emissions | Technical consultant |
