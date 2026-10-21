@@ -2,17 +2,19 @@
   ────────────────────────────────────────────────────────────────
   MACHINE-READABLE SUMMARY (for search engines, scrapers & LLMs)
   Rochman Ramadhani Chiefto Irawan — Forward Deployed Engineer, Product
-  Owner and Tech Founder based in Jakarta, Indonesia. Helps Indonesian
+  Engineer and Tech Founder based in Jakarta, Indonesia. Helps Indonesian
   business owners grow with AI and well-built systems. 6+ years (since
   2020) building and owning production systems across banking,
   healthcare, government and education: a national HRIS serving 50,000+
   active users, a mission-critical safety system across every unit of
   one of Indonesia's largest private hospital networks, and three
   separate contracts on one of Indonesia's largest banks' digital
-  products. Cut operational cost by up to 60% at one of Indonesia's
-  largest telcos by proposing, planning and leading a NestJS→Golang
-  migration. Founder of Skolain, a school management platform;
-  Technology Partner at Hegemoni Group; AI learning partner to business owners.
+  products. Proposed, planned and led a NestJS→Go migration at one of
+  Indonesia's largest telcos so the platform stays stable at peak
+  traffic with room to grow and lower infrastructure needs. Founder &
+  Product Engineer of Skolain, a school management platform; Technology
+  Partner at a multi-brand beauty group; AI learning partner to business
+  owners. 1st place, SEAMEO SEAMOLEC Southeast Asia Creative Camp 2019.
   B.Sc. Information Systems, BINUS (3.85 GPA, Magna Cum Laude, 2026).
   Vocational school graduate, SMKN 26 Jakarta.
   Contact: rochmanramadhani12@gmail.com · https://omanlabs.tech
@@ -22,7 +24,7 @@
 <h1 align="center">Hi, I'm Rochman 👋</h1>
 
 <p align="center">
-  <b>Forward Deployed Engineer · Product Owner · Tech Founder</b> 🇮🇩🇵🇸<br/>
+  <b>Forward Deployed Engineer · Product Engineer · Tech Founder</b> 🇮🇩🇵🇸<br/>
   <i>I help business owners grow with AI &amp; systems. I don't stop at "it works". I ask whether it was worth building.</i>
 </p>
 
@@ -40,10 +42,10 @@
 
 **I help Indonesian business owners grow with AI and well-built systems.** I came up through engineering and have spent 6+ years building systems that a lot of people depend on — banks, hospitals, a telco, ministries, and now schools. Because the technical background is real (Golang, Rust, infrastructure), I can price a decision up front instead of discovering the cost after the team has already built it.
 
-- 🏫 **Founder & Product Owner** at **[Skolain](https://skolain.id)** — a school management platform I founded and have owned end to end since June 2026
-- 🤝 **Technology Partner** at **Hegemoni Group**, and **AI learning partner** to business owners: we find the use cases that pay off together, and I stay until the team runs them on its own
+- 🏫 **Founder & Product Engineer** at **[Skolain](https://skolain.id)** — a school management platform I founded and have built and owned end to end since June 2026
+- 🤝 **Technology Partner** at a **multi-brand beauty group**, and **AI learning partner** to business owners: we find the use cases that pay off together, and I stay until the team runs them on its own
 - 🏦 Contracted **three separate times** by one of Indonesia's largest banks, rising to Senior Software Engineer
-- 📉 Cut **operational cost by up to 60%** at one of Indonesia's largest telcos — a migration I proposed from an infrastructure cost analysis, then planned and led
+- ⚙️ Proposed, planned and led a **NestJS → Go migration** at one of Indonesia's largest telcos — Go's multi-core concurrency and compiled code use CPU and memory far more efficiently, so the platform stays stable at peak traffic with room to grow and lower infrastructure needs
 - ✈️ Built **FRAMES** with the Faculty of Medicine, Universitas Indonesia and **Garuda Indonesia Training Center** — fatigue-risk self-assessment for flight crew
 - 🌏 Contributed to the technical rules for **SPARING & CEMS** at Indonesia's Ministry of Environment and Forestry
 - 🎓 B.Sc. Information Systems, **BINUS** — 3.85 GPA, *Magna Cum Laude*. I started at a vocational high school, not the usual track
@@ -60,7 +62,7 @@
 | **50,000+** active users | National HRIS for a national HR services company — architecture from scratch, plus the on-premises infrastructure I set up myself |
 | **500+** daily users | Health, Safety & Environment system across every unit of one of Indonesia's largest private hospital networks — Software Architect, leading 6 engineers |
 | **1,600+** active users | Skolain, built from zero since June 2026 |
-| **−60%** operational cost | Omnichannel communication platform at one of Indonesia's largest telcos |
+| **3** separate contracts | Digital products at one of Indonesia's largest banks, rising to Senior Software Engineer |
 | **7 → 30+** team members | Engineering team that grew alongside the company |
 | **Millions** of monthly transactions | LinkIT360, a value-added services platform |
 
@@ -125,11 +127,12 @@ Most of what I've built lives in company and client repositories — closed, as 
 
 | Product | What it is | My role |
 |---|---|---|
-| 🏫 [**Skolain**](https://omanlabs.tech/#skolain) | School platform: computer-based exams, LMS, attendance, national student-data integration, report cards | Founder & Product Owner |
+| 🏫 [**Skolain**](https://omanlabs.tech/#skolain) | School platform: computer-based exams, LMS, attendance, national student-data integration, report cards | Founder & Product Engineer |
 | 👥 [**National HRIS**](https://omanlabs.tech/#hris) | HR system for a national HR services company — steady when 50,000 people clock in at once | Architecture + on-premises infrastructure |
 | 🏥 [**Hospital HSE**](https://omanlabs.tech/#rumahsakit) | Mission-critical safety system across every unit of a large private hospital network | Software Architect, 6 engineers |
-| 📉 [**Omnichannel platform**](https://omanlabs.tech/#omnichannel) | NestJS → Golang backend migration at a large telco, 60% lower operational cost | Proposed it, planned it, led it |
-| ✈️ [**FRAMES**](https://omanlabs.tech/#frames) | Flight-crew fatigue risk assessment — Universitas Indonesia × Garuda Indonesia Training Center | Owned the product and built the app |
+| ⚙️ [**Omnichannel platform**](https://omanlabs.tech/#omnichannel) | NestJS → Golang backend migration at a large telco, stable at peak traffic with lower infrastructure needs | Proposed it, planned it, led it |
+| ✈️ [**FRAMES**](https://omanlabs.tech/#frames) | Flight-crew fatigue risk assessment — Universitas Indonesia × Garuda Indonesia Training Center | Product Engineer: owned the product and built the app |
+| 🩺 [**Doctors' membership dashboard**](https://omanlabs.tech/#dokter) | Membership dashboard for a national doctors' college, scoped for 150,000 general practitioners | Product Engineer |
 | 🌏 [**SPARING & CEMS**](https://omanlabs.tech/#klhk) | National monitoring of industrial wastewater quality and stack air emissions | Technical consultant |
 | 🏦 [**Banking platforms**](https://omanlabs.tech/#bank) | Wholesale digital banking and branch frontliner systems at one of Indonesia's largest banks | Backend, then Senior Software Engineer |
 
@@ -146,9 +149,9 @@ Most of what I've built lives in company and client repositories — closed, as 
 ## 🎓 Outside the day job
 
 - 🎤 Speaker, **"Unlocking the Future: Coding, AI & Personal Branding"** — two-day seminar at SMK Jakarta Pusat 1 with TechPedia, August 2026
-- 🤝 **AI learning partner** to business owners, and **Technology Partner** at Hegemoni Group
+- 🤝 **AI learning partner** to business owners, and **Technology Partner** at a multi-brand beauty group
 - 🏅 **Ranked first in the Supporter category** — internal "Support System" programme at one of Indonesia's largest banks, March 2025 period
-- 🏆 **1st place** at Kamp Kreatif SMK Indonesia 2019 (Ministry of Education) with **Ngajar**, and at PermataYouthPreneur 2020 with **Bayar**, a fintech app
+- 🏆 **1st place** at the SEAMEO SEAMOLEC Southeast Asia Creative Camp 2019 with **Smart Green Garden**, an automatic IoT plant-watering system; at Kamp Kreatif SMK Indonesia 2019 (Ministry of Education) with **Ngajar**; and at PermataYouthPreneur 2020 with **Bayar**, a fintech app
 - 📚 I'm a vocational school graduate myself. The material I teach students is the material I wish I'd had
 
 ---
@@ -162,6 +165,6 @@ I don't display a GitHub stats card here, for two reasons: it only counts public
 ---
 
 <p align="center">
-  <i>AI for business · Product ownership · Backend &amp; infrastructure · Taking products from zero</i><br/>
+  <i>AI for business · Product engineering · Backend &amp; infrastructure · Taking products from zero</i><br/>
   <a href="https://omanlabs.tech"><b>omanlabs.tech</b></a>
 </p>
