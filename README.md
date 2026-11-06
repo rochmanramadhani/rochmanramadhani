@@ -123,7 +123,7 @@
 
 ## 🌟 Selected work
 
-Most of what I've built lives in company and client repositories — closed, as it should be. So I collected the evidence in one place instead. Every row below opens the slide that documents it.
+Most of what I've built lives in company and client repositories — closed, as it should be. So I collected the evidence in one place instead. Every row below opens that project's evidence panel on omanlabs.tech.
 
 | Product | What it is | My role |
 |---|---|---|
@@ -160,7 +160,7 @@ Most of what I've built lives in company and client repositories — closed, as 
 
 The public repositories on this account are mostly coursework and experiments — the coursework ones are archived. **The systems I actually build live in company and client repositories, closed, as they should be.**
 
-I don't display a GitHub stats card here, for two reasons: it only counts public activity, so it understates rather than represents; and the third-party service that renders it is frequently down. What does represent the work is **[omanlabs.tech](https://omanlabs.tech)** — the full deck, with the artefacts and the dates.
+I don't display a GitHub stats card here, for two reasons: it only counts public activity, so it understates rather than represents; and the third-party service that renders it is frequently down. What does represent the work is **[omanlabs.tech](https://omanlabs.tech)**: every project with its evidence and dates.
 
 ---
 
